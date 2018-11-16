@@ -56,4 +56,4 @@ For the ribosomal protein alignment, this resulted in a 14% reduction in alignme
 For the SSU rRNA gene alignment, stripping columns with 50% or greater gaps reduced the alignment by 24% (to 1,489 positions) and the computation time by 28%.
 In both cases, the topology of the tree with the best likelihood was not changed significantly.
 The ribosomal protein resolved a two-domain tree with the Eukarya sibling to the Lokiarcheaota, while the SSU rRNA tree depicts a three-domain tree.
-The position of the **CPR (candidate phylum reconstructed)** as deep-branching on the ribosomal protein tree and within the Bacteria on the SSU rRNA tree was also consistent. The alignments and inferred trees under the more stringent gap stripping are available upon request.
+The position of the **CPR (Candidate Phyla Radiation)** as deep-branching on the ribosomal protein tree and within the Bacteria on the SSU rRNA tree was also consistent. The alignments and inferred trees under the more stringent gap stripping are available upon request.
