@@ -21,3 +21,6 @@ including papers list:
 
 09-[2017-Recovery of nearly 8,000 metagenome-assembled genomes substantially expands the tree of life](https://www.nature.com/articles/s41564-017-0012-7) > 011
 
+10-[2018-Horizontal operon transfer, plasmids, and the evolution of photosynthesis in Rhodobacteraceae](https://www.nature.com/articles/s41396-018-0150-9#ref-CR28) > 013
+
+
