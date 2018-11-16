@@ -7,7 +7,7 @@ including papers list:
 
 02-[2018-A metagenomics roadmap to the uncultured genome diversity in hypersaline soda lake sediments](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0548-7) > 003 004
 
-03-[2015-Connecting biodiversity and potential functional role in modern euxinic environments by microbial metagenomics](https://www.nature.com/articles/ismej2014254) > 005
+03-[2015-Connecting biodiversity and potential functional role in modern euxinic environments by microbial metagenomics](https://www.nature.com/articles/ismej2014254) > 005 012
 
 04-[2018-Potential for primary productivity in a globally-distributed bacterial phototroph](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6018677/#CR12) > 006
 
@@ -21,4 +21,3 @@ including papers list:
 
 09-[2017-Recovery of nearly 8,000 metagenome-assembled genomes substantially expands the tree of life](https://www.nature.com/articles/s41564-017-0012-7) > 011
 
-10-[2015-Connecting biodiversity and potential functional role in modern euxinic environments by microbial metagenomics](https://www.nature.com/articles/ismej2014254) > 012
