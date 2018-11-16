@@ -23,4 +23,6 @@ including papers list:
 
 10-[2018-Horizontal operon transfer, plasmids, and the evolution of photosynthesis in Rhodobacteraceae](https://www.nature.com/articles/s41396-018-0150-9#ref-CR28) > 013
 
+11-[2017-Phylogenomics of Rhodobacteraceae reveals evolutionary adaptation to marine and non-marine habitats](https://www.nature.com/articles/ismej2016198#ref40) > 014
+
 
